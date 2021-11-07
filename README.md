@@ -1,2 +1,2 @@
-# smartcontract_clothbitc
-token clothbitc
+# smartcontract clothbitc
+Token ClothBitc
